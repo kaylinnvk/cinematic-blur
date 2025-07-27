@@ -1,0 +1,14 @@
+bmx-trees
+bus
+dog-agility
+kite-surf
+motorcross-jump
+horsejump-high
+horsejump-low
+kite-walk
+libby
+motorbike
+scooter-gray
+rhino
+soccerball
+swing

@@ -1,0 +1,44 @@
+# Ignore experiment and irrelevant notebook outputs
+codes/experiments/
+codes/notebooks/optimize_denseCRF.ipynb
+codes/notebooks/precompute_fft.ipynb
+codes/matchTemplate-test.ipynb
+
+# DAVIS dataset
+data/DAVIS/
+
+# DAVIS segmentation results
+outputs/DAVIS/highlight_frames/
+outputs/DAVIS/segmented/
+
+# other run.py files for evaluation
+codes/save_to_frames.py
+codes/compare.py
+codes/compare-batch.py
+codes/run_eval.py
+codes/run_highlight.py
+
+# ignore venv
+venv-cinematic-blur/
+
+# ignore 
+outputs/movie-scenes/highlight_frames/
+outputs/personal/pre-tests/
+
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.out
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/

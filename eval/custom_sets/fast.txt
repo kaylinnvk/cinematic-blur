@@ -1,0 +1,17 @@
+bmx-tree
+drift-chicane
+dog-agility
+drift-straight
+kite-surf
+mallard-fly
+motorcross-bumps
+motorcross-jump
+paragliding
+paragliding-launch
+parkour
+scooter-black
+rollerblade
+drift-turn
+bmx-bumps
+surf
+tennis
