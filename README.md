@@ -4,8 +4,7 @@
 ## Results Overview
 Here are a few of the blurred background results compared to the original and highlighted foreground videos. More of these can be accessed in the outputs folder.
 
+https://github.com/user-attachments/assets/aac4fedc-a7b5-4337-9956-3ac579d940b3
 
-https://github.com/user-attachments/assets/e95284ca-3cda-488f-8ee6-7c53ef9e129b
-
-https://github.com/user-attachments/assets/16d69729-43a6-4e44-b712-df629974189e
+https://github.com/user-attachments/assets/3972b4d4-c970-40c2-add3-91b0c8dfb616
 
