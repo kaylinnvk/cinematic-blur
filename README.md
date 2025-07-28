@@ -3,5 +3,7 @@
 
 ## Results Overview
 Here are a few of the blurred background results compared to the original and highlighted foreground videos. More of these can be accessed in the outputs folder.
-![comparison_paperplane](https://cuhko365-my.sharepoint.com/:v:/g/personal/124040033_link_cuhk_edu_cn/EcWO5WGSPgxLk7vWbRP2JSwB0Fk_giU9RbdGP0j9G1MFxw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yrnlJf)
-![comparison_sunset](https://cuhko365-my.sharepoint.com/:v:/g/personal/124040033_link_cuhk_edu_cn/Ed1TRsixcEtMnz1RUWzVIHYBVmYXTa99SzDmHyJmN8bBdw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=EblqfQ)
+
+
+https://github.com/user-attachments/assets/e95284ca-3cda-488f-8ee6-7c53ef9e129b
+
