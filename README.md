@@ -13,10 +13,11 @@ https://github.com/user-attachments/assets/f6115b5f-1b20-479b-926e-1e6be784afcc
 
 https://github.com/user-attachments/assets/ac4b2e9c-226b-41c1-abce-77a6e3ae46e3
 
-## 
+# 
 ## Project Pipeline
 <img width="1920" height="1080" alt="project_pipeline" src="https://github.com/user-attachments/assets/4440d336-70ff-4747-a190-403c2f87412c" />
 
+#
 ## Usage Guide
 
 1. Clone the repository
@@ -40,7 +41,7 @@ https://github.com/user-attachments/assets/ac4b2e9c-226b-41c1-abce-77a6e3ae46e3
    pip install -r requirements.txt
    ```
    
-5. Run ```codes/run.py```
+5. Run ```codes/run.py```.
    You will be prompted to scribble to define the initial foreground and background seeds.
    The program will then ask if you want to refine the segmentation.
    Afterward, it proceeds to mask propagation and background blurring.
