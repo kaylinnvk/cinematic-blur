@@ -20,25 +20,25 @@ https://github.com/user-attachments/assets/ac4b2e9c-226b-41c1-abce-77a6e3ae46e3
 ##
 ## Usage Guide
 1. Clone the repository
-   '''
-   git clone https://github.com/kaylinnvk/cinematic-blur 
-   '''
+'''
+git clone https://github.com/kaylinnvk/cinematic-blur 
+'''
 2. (Optional) Create a new virtual environment
-   '''
-   python -m venv venv-cinematic-blur
+'''
+python -m venv venv-cinematic-blur
 
-   # activate venv
-   venv-cinematic-blur\Scripts\activate
-   '''
+# activate venv
+venv-cinematic-blur\Scripts\activate
+'''
 4. Install all requirements
-   '''
-   pip install -r requirements.txt
-   '''
+'''
+pip install -r requirements.txt
+'''
 5. Run codes/run.py.
    Here, the user will be prompted to scribble to define the initial foreground and background seeds. After, the program will also ask the user if they want to refine the segmentation. The program will then go into the
    mask propagation and background blurring phase after the graph cut is done. The specific videos and output path can be modified in the run.py file.
-   '''
-   # modify these lines
-   video_path = os.path.abspath(os.path.join(base_dir, "path/to/your/video"))
-   output_path = os.path.abspath(os.path.join(base_dir, "path/to/desired/output/path"))
-   '''
+'''
+# modify these lines
+video_path = os.path.abspath(os.path.join(base_dir, "path/to/your/video"))
+output_path = os.path.abspath(os.path.join(base_dir, "path/to/desired/output/path"))
+'''
