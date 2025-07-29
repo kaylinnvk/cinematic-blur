@@ -2,6 +2,7 @@
 codes/experiments/
 codes/notebooks/optimize_denseCRF.ipynb
 codes/notebooks/precompute_fft.ipynb
+codes/notebooks/.ipynb_checkpoints
 codes/matchTemplate-test.ipynb
 
 # DAVIS dataset
